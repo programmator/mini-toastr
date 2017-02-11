@@ -3,7 +3,6 @@
   "description": "mini-toastr notifications for the Laravel framework.",
   "keywords": ["laravel", "mini-toastr", "notifications"],
   "require": {
-	"php": ">=5.6.4",
 	"illuminate/support": "5.4.*",
 	"illuminate/session": "5.4.*"
   },
@@ -22,5 +21,6 @@
 	  "email": "progerzg@gmail.com"
 	}
   ],
-  "minimum-stability": "stable"
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
