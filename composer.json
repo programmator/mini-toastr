@@ -1,0 +1,24 @@
+{
+  "name": "programmator/mini-toastr",
+  "description": "mini-toastr notifications for the Laravel framework.",
+  "require": {
+	"php": ">=5.6.4",
+	"illuminate/support": "~5.4",
+	"illuminate/session": "~5.4"
+  },
+  "autoload": {
+	"files": [
+	  "src/SeoMax/MiniToastr/Support/helpers.php"
+	],
+	"psr-4": {
+	  "SeoMax\\": "src/SeoMax"
+	}
+  },
+  "license": "MIT",
+  "authors": [
+	{
+	  "name": "George Mostovoy",
+	  "email": "progerzg@gmail.com"
+	}
+  ]
+}
