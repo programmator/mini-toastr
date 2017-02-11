@@ -90,8 +90,6 @@ class MiniToastr
 
 		return '
 <script>
-	miniToastr.init('.json_encode($config).');
-
 	var miniToastrMessages = '.json_encode($messages).';
 	
 	for (var id in miniToastrMessages)

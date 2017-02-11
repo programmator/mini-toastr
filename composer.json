@@ -20,5 +20,6 @@
 	  "name": "George Mostovoy",
 	  "email": "progerzg@gmail.com"
 	}
-  ]
+  ],
+  "minimum-stability": "dev"
 }
